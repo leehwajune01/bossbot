@@ -1474,7 +1474,7 @@ class mainCog(commands.Cog):
 					)
 			embed.add_field(
 					name="----- 문의하실곳은? -----",
-					value= '```한스팸 한몸매 & 그 ```'
+					value= '```한스팸 한몸매에게로 ```'
 					)
 			await ctx.send(embed=embed, tts=False)
 		else:
